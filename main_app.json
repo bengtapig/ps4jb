@@ -1,1 +1,13 @@
-
+{
+  "packages": [
+    {
+      "name": "Main_App",
+      "main_bg": "http://orbismandl.darksoftware.xyz/storedata/store_background.png",
+      "main_bg_local": "/user/app/NPXS39041/storedata/store_background.png", 
+      "default_dl": "http://orbismandl.darksoftware.xyz/storedata/nondf.png",
+      "default_dl_local": "/user/app/NPXS39041/storedata/nondf.png",
+      "dl_bg": "http://orbismandl.darksoftware.xyz/storedata/dlbackground.png",
+      "dl_bg_local": "/user/app/NPXS39041/storedata/dlbackground.png"
+    }
+  ]
+}
